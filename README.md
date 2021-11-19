@@ -1,1 +1,1 @@
-[![smenna's 42 stats](https://badge42.herokuapp.com/api/stats/smenna?privacyEmail=true)](https://github.com/smenna/badge42)
+![Alt Text](https://i.pinimg.com/originals/d7/64/84/d76484f755763b87d45ec9c56e21b37c.gif)
